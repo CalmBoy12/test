@@ -1,0 +1,50 @@
+[
+    {
+        "item": "Late Thirties to Early Forties",
+        "_1_yr_return": "-0.31",
+        "_3_yr_return": "0.17",
+        "_5_yr_return": "0.61",
+        "_ytd_return": "-0.31",
+        "inception_return": "2.55"
+    },
+    {
+        "item": "US Inflation Adjusted return",
+        "_1_yr_return": "-0.47",
+        "_3_yr_return": "-0.02",
+        "_5_yr_return": "0.52",
+        "_ytd_return": "-0.70",
+        "inception_return": "1.02"
+    },
+    {
+        "item": "SPDR S&P 500 (SPY)",
+        "_1_yr_return": "-0.17",
+        "_3_yr_return": "1.23",
+        "_5_yr_return": "0.74",
+        "_ytd_return": "1.80",
+        "inception_return": "4.04"
+    },
+    {
+        "item": "Invesco QQQ (QQQ)",
+        "_1_yr_return": "-0.26",
+        "_3_yr_return": "-1.84",
+        "_5_yr_return": "0.67",
+        "_ytd_return": "0.65",
+        "inception_return": "1.03"
+    },
+    {
+        "item": "iShares Core S&P 500 (IVV)",
+        "_1_yr_return": "-0.40",
+        "_3_yr_return": "0.55",
+        "_5_yr_return": "1.97",
+        "_ytd_return": "-1.21",
+        "inception_return": "2.77"
+    },
+    {
+        "item": "ChinaAMC CSI 300 (3188)",
+        "_1_yr_return": "-0.52 ",
+        "_3_yr_return": "-0.28",
+        "_5_yr_return": "-0.23",
+        "_ytd_return": "0.61",
+        "inception_return": "-1.95"
+    }
+]

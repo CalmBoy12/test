@@ -1,0 +1,106 @@
+[
+    {
+        "period": "1M",
+        "return": "1.43",
+        "adj_return": "0.45",
+        "standard_deviation": "",
+        "max_drawdown": "0.00",
+        "pos_neg_months": "1 - 0"
+    },
+    {
+        "period": "3M",
+        "return": "-6.57",
+        "adj_return": "-8.91",
+        "standard_deviation": "",
+        "max_drawdown": "-7.89 (Mar 2022 - Apr 2022)",
+        "pos_neg_months": "1 - 2"
+    },
+    {
+        "period": "6M",
+        "return": "-10.84",
+        "adj_return": "-14.80",
+        "standard_deviation": "",
+        "max_drawdown": "-13.40 (Jan 2022 - Apr 2022)",
+        "pos_neg_months": "2 - 4"
+    },
+    {
+        "period": "YTD",
+        "return": "-12.15",
+        "adj_return": "-15.57",
+        "standard_deviation": "",
+        "max_drawdown": "-13.40 (Jan 2022 - Apr 2022)",
+        "pos_neg_months": "1 - 4"
+    },
+    {
+        "period": "1Y",
+        "return": "-10.04",
+        "adj_return": "-17.10",
+        "standard_deviation": "7.97",
+        "max_drawdown": " -13.90 (Sep 2021 - Apr 2022)",
+        "pos_neg_months": "6 - 6"
+    },
+    {
+        "period": "3Y",
+        "return": "0.90",
+        "adj_return": "-3.45",
+        "standard_deviation": "10.39",
+        "max_drawdown": "-13.90 (Sep 2021 - Apr 2022)",
+        "pos_neg_months": "21 - 15"
+    },
+    {
+        "period": "5Y",
+        "return": "1.85",
+        "adj_return": "-1.71",
+        "standard_deviation": "8.59",
+        "max_drawdown": "-13.90 (Sep 2021 - Apr 2022)",
+        "pos_neg_months": "34 - 26"
+    },
+    {
+        "period": "10Y",
+        "return": "3.80",
+        "adj_return": "1.31",
+        "standard_deviation": "7.39",
+        "max_drawdown": "-13.90 (Sep 2021 - Apr 2022)",
+        "pos_neg_months": "73 - 47"
+    },
+    {
+        "period": "15Y",
+        "return": "4.72",
+        "adj_return": "2.35",
+        "standard_deviation": "10.01",
+        "max_drawdown": "-23.97 (Nov 2007 - Oct 2008)",
+        "pos_neg_months": "111 - 69"
+    },
+    {
+        "period": "20Y",
+        "return": "5.85",
+        "adj_return": "3.32",
+        "standard_deviation": "3.32",
+        "max_drawdown": "-23.97 (Nov 2007 - Oct 2008)",
+        "pos_neg_months": "153 - 87"
+    },
+    {
+        "period": "25Y",
+        "return": "6.19",
+        "adj_return": "3.67",
+        "standard_deviation": "8.78",
+        "max_drawdown": "-23.97 (Nov 2007 - Oct 2008)",
+        "pos_neg_months": "190 - 110"
+    },
+    {
+        "period": "30Y",
+        "return": "7.19",
+        "adj_return": "4.59",
+        "standard_deviation": "8.33",
+        "max_drawdown": "-23.97 (Nov 2007 - Oct 2008)",
+        "pos_neg_months": "237 - 123"
+    },
+    {
+        "period": "MAX",
+        "return": "7.24",
+        "adj_return": "4.64 ",
+        "standard_deviation": "8.33",
+        "max_drawdown": "-23.97 (Nov 2007 - Oct 2008)",
+        "pos_neg_months": "242 - 123"
+    }
+]

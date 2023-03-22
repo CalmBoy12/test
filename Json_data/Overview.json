@@ -1,0 +1,19 @@
+{
+   "overview" : [
+    {
+        "total_return_percentage": "12.70%",
+        "net_profit": "4.13%",
+        "net_liquidation": "975721.77",
+        "sharpe_ratio": "0.440",
+        "compounding_re": "0.614",
+        "margin_ratio": "0.127",
+        "sortino_ratio": "0.038",
+        "max_drawdown": "-0.613",
+        "alpha": "0.343",
+        "volatility": "0.481",
+        "win_rate": "50.45%",
+        "average_win": "average_win",
+        "profit_loss_ratio": "1.009",
+        "userId" : "62acfc4b093352fac00e0809"
+    }
+]}

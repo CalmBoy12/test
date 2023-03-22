@@ -1,0 +1,20 @@
+bcrypt==3.1.7
+cloudinary==1.17.0
+Flask==2.0.3
+Flask-Cors==3.0.10
+Flask-Login==0.4.1
+Flask-PyMongo==2.3.0
+flask-jwt-extended==3.22.0
+gunicorn==19.9.0
+jedi==0.13.3
+Jinja2>=3.0
+jsonschema==3.0.1
+pymongo==4.1.1
+dnspython==2.2.1
+python-slugify==3.0.3
+python-dotenv==0.10.3
+python-http-client==3.1.0
+requests==2.21.0
+unicodecsv==0.14.1
+MarkupSafe==2.0.1
+#  bcrypt cloudinary Flask Flask-Cors Flask-Login Flask-PyMongo flask-jwt-extended gunicorn jedi Jinja2 jsonschema pymongo dnspython python-slugify python-dotenv python-http-client requests unicodecsv MarkupSafe

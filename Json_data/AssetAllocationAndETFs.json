@@ -1,0 +1,20 @@
+{
+    "AssetAllocationAndETFs": [
+        {
+            "ETF_percentage": "17.00%",
+            "ETF_label": "SPDR S&P 500 (SPY)"
+        },
+        {
+            "ETF_percentage": "23.00%",
+            "ETF_label": "Invesco QQQ (QQQ)"
+        },
+        {
+            "ETF_percentage": "45.00%",
+            "ETF_label": "iShares Core S&P 500 (IVV)"
+        },
+        {
+            "ETF_percentage": "15.00%",
+            "ETF_label": "ChinaAMC CSI 300 (3188)"
+        }
+    ]
+}

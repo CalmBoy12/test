@@ -1,0 +1,62 @@
+[
+    {
+        "strategyName": "Late Thirties to Early Forties",
+        "nlvDailyChange": -4.53,
+        "nlvMonthlyChange": -9.9,
+        "strategyInitial": "The Late Thirties to Early Forties strategy is a Low Risk portfolio and can be implemented with 4 ETFs.In the last 10 Years, the Late Thirties to Early Forties strategy obtained a 7.19% compound annual return, with a 8.33% standard deviation."
+    },
+    {
+        "strategyName": "Warren Buffett Portfolio",
+        "nlvDailyChange": 3.95,
+        "nlvMonthlyChange": -1.44,
+        "strategyInitial": "The Warren Buffett Portfolio is a Low Risk portfolio and can be implemented with 4 ETFs. In the last 10 Years, the Warren Buffett Portfolio obtained a 7.19% compound annual return, with a 8.33% standard deviation."
+    },
+    {
+        "strategyName": "Edge Select Aggressive",
+        "nlvDailyChange": 2.84,
+        "nlvMonthlyChange": -1.73,
+        "strategyInitial": "The Edge Select Aggressive strategy is a Low Risk portfolio and can be implemented with 4 ETFs. In the last 10 Years, the Edge Select Aggressive strategy obtained a 7.19% compound annual return, with a 8.33% standard deviation."
+    },
+    {
+        "strategyName": "Jane Bryant Quinn Portfolio",
+        "nlvDailyChange": -3.11,
+        "nlvMonthlyChange": -5.37,
+        "strategyInitial": "The Jane Bryant Quinn Portfolio is a Low Risk portfolio and can be implemented with 4 ETFs. In the last 10 Years, the Jane Bryant Quinn Portfolio obtained a 7.19% compound annual return, with a 8.33% standard deviation."
+    },
+    {
+        "strategyName": "Ultimate Buy and Hold strategy",
+        "nlvDailyChange": 4.07,
+        "nlvMonthlyChange": 5.78,
+        "strategyInitial": "The Ultimate Buy and Hold strategy is a Low Risk portfolio and can be implemented with 4 ETFs. In the last 10 Years, the Ultimate Buy and Hold strategy obtained a 7.19% compound annual return, with a 8.33% standard deviation."
+    },
+    {
+        "strategyName": "GAA Global Asset Allocation",
+        "nlvDailyChange": 1.58,
+        "nlvMonthlyChange": -0.29,
+        "strategyInitial": "The GAA Global Asset Allocation strategy is a Low Risk portfolio and can be implemented with 4 ETFs. In the last 10 Years, the GAA Global Asset Allocation strategy obtained a 7.19% compound annual return, with a 8.33% standard deviation."
+    },
+    {
+        "strategyName": "Aggressive Global Income",
+        "nlvDailyChange": -0.18,
+        "nlvMonthlyChange": 2.2,
+        "strategyInitial": "The Aggressive Global Income strategy is a Low Risk portfolio and can be implemented with 4 ETFs. In the last 10 Years, the Aggressive Global Income strategy obtained a 7.19% compound annual return, with a 8.33% standard deviation."
+    },
+    {
+        "strategyName": "Simplified Permanent Portfolio",
+        "nlvDailyChange": 0.93,
+        "nlvMonthlyChange": -2.74,
+        "strategyInitial": "The Simplified Permanent Portfolio is a Low Risk portfolio and can be implemented with 4 ETFs. In the last 10 Years, the Simplified Permanent Portfolio obtained a 7.19% compound annual return, with a 8.33% standard deviation."
+    },
+    {
+        "strategyName": "Vanguard Life Strategy Growth Fund",
+        "nlvDailyChange": -0.36,
+        "nlvMonthlyChange": -1.7,
+        "strategyInitial": "The Vanguard Life Strategy Growth Fund is a Low Risk portfolio and can be implemented with 4 ETFs. In the last 10 Years, the Vanguard Life Strategy Growth Fund obtained a 7.19% compound annual return, with a 8.33% standard deviation."
+    },
+    {
+        "strategyName": "No Brainer Portfolio",
+        "nlvDailyChange": -0.5,
+        "nlvMonthlyChange": 3.1,
+        "strategyInitial": "The No Brainer Portfolio is a Low Risk portfolio and can be implemented with 4 ETFs. In the last 10 Years, the No Brainer Portfolio obtained a 7.19% compound annual return, with a 8.33% standard deviation."
+    }
+]

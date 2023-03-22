@@ -1,0 +1,26 @@
+{ "PortfolioEfficiency" : [
+    {
+        "parameter": "_25yrs_adj_ann_return",
+        "value": "6.19%",
+        "compare_same_risk": "6.19%",
+        "comapre_all_portfolios": "2.3 / 5"
+    },
+    {
+        "parameter": "standard_deviation",
+        "value": "8.78%",
+        "compare_same_risk": " 1 / 5",
+        "comapre_all_portfolios": "3.6 / 5"
+    },
+    {
+        "parameter": "max_drawdown",
+        "value": "-23.97%",
+        "compare_same_risk": " 1 / 5",
+        "comapre_all_portfolios": "3.6 / 5"
+    },
+    {
+        "parameter": "num_of_ETF",
+        "value": "4",
+        "compare_same_risk": " 3.5 / 5",
+        "comapre_all_portfolios": "3.5 / 5"
+    }
+]}

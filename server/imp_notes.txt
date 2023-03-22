@@ -1,0 +1,10 @@
+.\my_env\Scripts\Activate.ps1 (to Activate virtual env)
+
+
+E:\nft-flask>cd myEnv
+
+E:\nft-flask\myEnv>cd Scripts
+
+E:\nft-flask\myEnv\Scripts>activate   
+
+(myEnv) E:\nft-flask\myEnv\Scripts>

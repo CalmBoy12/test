@@ -1,0 +1,14 @@
+*.swp
+*.pem
+*.pyc
+*.DS_Store
+.cache
+node_modules
+build
+__pycache__
+package-lock.json
+my_env/
+practiceFile.txt
+mypython
+myEnv
+.idea/

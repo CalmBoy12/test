@@ -1,0 +1,32 @@
+{
+    "TradeLog": [
+        {
+            "ETF_name": "iShares Core S&P 500 (IVV)",
+            "date_time": "2022-05-27 16:01:00",
+            "price": "375.44",
+            "quantity": "10",
+            "proceeds": "1"
+        },
+        {
+            "ETF_name": "SPDR S&P 500 (SPY) ",
+            "date_time": "2022-05-27 16:04:00",
+            "price": "370.42",
+            "quantity": "5",
+            "proceeds": "1"
+        },
+        {
+            "ETF_name": "SPDR S&P 500 (SPY) ",
+            "date_time": "2022-05-27 16:06:00",
+            "price": "370.42",
+            "quantity": "2",
+            "proceeds": "1"
+        },
+        {
+            "ETF_name": "iShares Core S&P 500 (IVV)",
+            "date_time": "2022-05-27 16:09:00",
+            "price": "375.48",
+            "quantity": "2",
+            "proceeds": "3"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "weight": "17.00%",
+        "ETF_ticker": "SPY",
+        "ETF_name": "SPDR S&P 500",
+        "strategy_name": "Late Thirties to Early Forties"
+    },
+    {
+        "weight": "23.00%",
+        "ETF_ticker": "QQQ",
+        "ETF_name": "Invesco QQQ",
+        "strategy_name": "Late Thirties to Early Forties"
+    },
+    {
+        "weight": "45.00%",
+        "ETF_ticker": "IVV",
+        "ETF_name": "iShares Core S&P 500",
+        "strategy_name": "Late Thirties to Early Forties"
+    },
+    {
+        "weight": "15.00%",
+        "ETF_ticker": "3188",
+        "ETF_name": "ChinaAMC CSI 300",
+        "strategy_name": "Late Thirties to Early Forties"
+    }
+]

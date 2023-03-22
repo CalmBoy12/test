@@ -1,0 +1,26 @@
+{ "PortfolioDividendYield" : [
+    {
+        "weight": "17.00%",
+        "ETF_name": "SPDR S&P 500 (SPY)",
+        "div_yield_current_year": "1.50%",
+        "div_yield_last_year": "1.55%"
+    },
+    {
+        "weight": "23.00%",
+        "ETF_name": "Invesco QQQ (QQQ)",
+        "div_yield_current_year": "0.60%",
+        "div_yield_last_year": "0.63%"
+    },
+    {
+        "weight": "45.00%",
+        "ETF_name": "iShares Core S&P 500 (IVV)",
+        "div_yield_current_year": "1.40%",
+        "div_yield_last_year": "1.57%"
+    },
+    {
+        "weight": "15.00% ",
+        "ETF_name": " ChinaAMC CSI 300 (3188)",
+        "div_yield_current_year": "0.72%",
+        "div_yield_last_year": "0.75%"
+    }
+]}
